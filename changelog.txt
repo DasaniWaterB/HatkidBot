@@ -1,0 +1,19 @@
+() = Changes, Only Applies to revisions
+'' = Previous Issue, Only Applies to revisions
+>  = Change to x, Only applies to Unconfirmed Issues
+
+1.0.0 | Initial Release
+1.0.1 | Grammar in deletexp.js; Line 14, delete.js; Line 18: 'You haven't seem (to have) taken my soul(,)'
+1.0.2 | Typo in soundtrack.js; Line 14: 'These are all the soun(d)tracks'
+
+
+Unconfirmed Issues:
+* leaderboard.js; Line 58: 'Shows who has the most amount of [Money > Pons] on the server.'
+* work.js 'awh'?
+* Rename several files in triggers to include underscores or even hyphens instead of spaces, long story short: macOS does not appreciate it :)
+* Change mustache girl description from 'fighting "evil"' to 'fighting "Bad Guys"'
+
+
+Issuess that are known but can't/won't fix yet:
+* Many Files have evidently been duplicated, code in them change except for descriptions, e.g: swear.js, test.js etc.
+* kick.js has the 'provide a user to x' from ban.js
